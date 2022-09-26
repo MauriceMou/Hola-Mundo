@@ -1,2 +1,2 @@
 const nombreUsuario = prompt('Cual es tu nombre?')
-alert(`Bienvenido ${nombreUsuario}`)
+alert('Bienvenido ' + nombreUsuario)
